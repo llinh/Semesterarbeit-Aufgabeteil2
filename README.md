@@ -7,7 +7,7 @@ Der Aufgabeteil kann in 4 Stufen erfüllt werden. Es empfiehlt sich allerdings, 
 
 Stufe I – Basisaufgabe1. Ein Button „Start“ bzw. „Pause“ startet bzw. stoppt das Spiel. Vorzugsweise wechselt ein Button die Beschriftung. 
 
-2. Am unteren Rand einer Zeichenfläche (~Spielfeld) lässt sich – mit Hilfe der Pfeiltasten – ein schraffiertes Quadrat nach links/rechts steuern. Dieses repräsentiert den „Avatar“ des Spielers.
+2. Am unteren Rand einer Zeichenfläche (~Spielfeld) lässt sich – mit Hilfe (der Pfeiltasten) hier die Steuerung auf dem A und D Tasten – ein schraffiertes Quadrat nach links/rechts steuern. Dieses repräsentiert den „Avatar“ des Spielers.
 
 3. Ein Button „Speichern“ sichert den Zustand des Spiels und seiner Objekte in ein „Savegame“.
 
